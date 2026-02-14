@@ -1,0 +1,33 @@
+body{
+    
+ 
+   
+
+    h1{
+        color: #1500ff;
+        text-align: center;
+        font-size: 5cap;
+          margin-top: 1.2in;
+        margin-bottom: -3.2in;
+    }
+    
+     h2{
+        color: #1500ff;
+        text-align: center;
+        font-size: 30cap;
+    
+        font-family: "Antonio", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+         margin-top: 2.6in;
+    }
+
+      h3{
+        color: #1500ff;
+        text-align: center;
+        margin-top: -2.7in;
+        
+    }
+    background-color: #C2C2C1
+}
