@@ -6,34 +6,49 @@ body{
     h1{
         color: #7e72ff;
         text-align: center;
-        font-size: 5cap;
-          margin-top: 1.2in;
-        margin-bottom: -3.2in;
+        font-size: 62px;
+          margin-top: 1.23in;
+        margin-bottom: -3.5in;
+
+        font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
     }
     
      h2{
-        color: #000000;
-        text-align: center;
-        font-size: 30cap;
+        color: #ff0000;
+        font-size: 237px;
+        margin-top: 296px; margin-bottom: 0px; margin-left: 453px;
     
         font-family: "Antonio", sans-serif;
         font-optical-sizing: auto;
-        font-weight: weight;
+        font-weight: 400;
         font-style: normal;
-         margin-top: 2.6in;
+        
     }
 
       h3{
         color: #6557ff;
         text-align: center;
-        margin-top: -2.7in;
+        margin-top: 20px;
         
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
     }
 
-    .rectangle {
-              width: 200px;
-              height: 100px;
-              background-color: #6557ff;
+    h4{
+      color: #6557ff;
+        text-align: center;
+        margin-top: 20px;
+        
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
     }
+
     background-color: #C2C2C1
 }
