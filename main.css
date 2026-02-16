@@ -67,9 +67,43 @@ body{
  .para-2{
     color: #6557ff;
         margin-top: -878px;
-        margin-bottom: 700px;
-        margin-right: 1148px;
-        margin-left: 0;
+        margin-bottom: 0px;
+        margin-right: 70px;
+        margin-left: 22px;
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+ }
+
+ .para-3{
+  color: #6557ff;
+        margin-top: -183px;
+        margin-bottom: 0px;
+        margin-right: 70px;
+        margin-left: 100px;
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+ }
+
+ .para-4{color: #6557ff;
+        margin-top: 254px;
+        margin-bottom: 300px;
+        margin-right: 0px;
+        margin-left: 259px;
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+ }
+
+ .para-5{color: #6557ff;
+        margin-top: -700px;
+        margin-bottom: 10px;
+        margin-right: 0px;
+        margin-left: 259px;
   font-family: "Host Grotesk", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
